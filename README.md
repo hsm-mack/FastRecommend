@@ -2,7 +2,7 @@
 
 ## Sistema Inteligente de Recomendação de Itens de Cardápio com Machine Learning
 
-Projeto desenvolvido para a disciplina **Projeto Aplicado III** da Universidade Presbiteriana Mackenzie.
+Projeto desenvolvido para a disciplina **Projeto Aplicado III**.
 
 **Integrante:** Fatima Harumi de Souza Matsuoka  
 **Ano:** 2026
